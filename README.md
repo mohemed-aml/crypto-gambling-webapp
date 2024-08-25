@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # reddit-clone
 A clone of reddit built using nextjs 14, firebase, chakra ui and recoil
 
@@ -36,3 +37,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 =======
+=======
+# crypto-gambling-webapp
+>>>>>>> 57e3b02eaeca369d3fa086d6b841c3706343c8c1
