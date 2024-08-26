@@ -15,7 +15,7 @@ export default function CoinFlipGame({ blockchain }: CoinFlipGameProps) {
   const { writeContract, data: hash } = useWriteContract();
 
   const { isLoading: isConfirming, isSuccess } = useWaitForTransactionReceipt({
-    hash,
+    hash,   
   });
 
   const handleFlip = async () => {
